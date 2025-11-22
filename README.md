@@ -10,7 +10,7 @@
 - 🎓 Final-year B.Tech CSE (Data Science), DY Patil International University , Akurdi
 - 🧠 Skilled in Python, SQL, Power BI, Azure Data Factory, Databricks, Firebase, Apache Beam  
 - 🤖 Building AI automation systems and multi-agent solutions  
-- 📊 Strong foundation in Data Engineering, ETL, analytics, dashboards  
+- 📊 Strong foundation in Data Engineering, ETL, analytics, BI dashboards
 
 ---
 
